@@ -15,3 +15,5 @@ KCC is intended for research and evaluation in legal information retrieval. It i
 
 ## License
 The KCC dataset is made available for research and evaluation purposes only. Access to the dataset will be provided through a public repository upon acceptance of the paper. Users are required to agree that the dataset will not be used for commercial purposes or for real-world legal decision-making.
+
+This repository is under review.
